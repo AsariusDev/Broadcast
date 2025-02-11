@@ -1,0 +1,11 @@
+---
+name: Broadcast
+version: 1.0.0
+author: AsariusDev
+description: Broadcast messages easily.
+website: https://github.com/AsariusDev
+main: AsariusDev\Broadcast\Main
+api: 5.23.2
+src-namespace-prefix: AsariusDev\Broadcast
+
+...

@@ -1,0 +1,28 @@
+# All possible colors
+# &0 = Black
+# &1 = Dark Blue
+# &2 = Dark Green
+# &3 = Dark Aqua
+# &4 = Dark Red
+# &5 = Dark Purple
+# &6 = Gold
+# &7 = Gray
+# &8 = Dark Gray
+# &9 = Blue
+# &a = Green
+# &b = Aqua
+# &c = Red
+# &d = Light Purple
+# &e = Yellow
+# &f = White
+
+broadcast:
+  prefix:
+    bracket_color: "&f" # Color for the [ ]
+    text:
+      text: "BROADCAST"
+      color: "&c"  # Color for the TEXT
+  sender_name:
+    color: "&5"
+  message:
+    color: "&6"
